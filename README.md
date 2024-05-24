@@ -1,16 +1,13 @@
-## Hi there 👋
+### ola boa vindas a meu perfil
 
-<!--
-**kaua4002/kaua4002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-meu nome é: Kauã Silva Pereira
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### para entrar em contato comigo:
+
+00001087840600sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/lZX2p4fx9TgAAAAC/average-ostrumian-ostrumian.gif)
